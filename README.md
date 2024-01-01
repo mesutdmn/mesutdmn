@@ -11,33 +11,33 @@ I am a curious individual with a relentless passion for data science and MLOps. 
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! 🌟
 
-<img alt="Night Coding" src="https://gifdb.com/images/high/ice-bear-laptop-typing-working-busy-rcs9s9lq7r1dz93t.gif" width="400px" align="right"/>
+<img alt="Night Coding" src="https://github.com/mesutdmn/mesutdmn/assets/72805471/78521764-cd91-44bc-8634-5feea6e02f93" width="400px" align="right"/>
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3)&nbsp;
 <br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL)&nbsp;
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=SQLite)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat-square&logo=microsoft-sql-server)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=SQLite)&nbsp;
 <br>
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
-![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=for-the-badge&logo=mlflow)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=for-the-badge&logo=jenkins)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=Kubernetes)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)&nbsp;
+![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat-square&logo=mlflow)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat-square&logo=jenkins)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes)&nbsp;
 <br>
-![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=for-the-badge&logo=streamlit)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=flask)&nbsp;
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=streamlit)&nbsp;
 <br>
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=for-the-badge&logo=Tensorflow)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=for-the-badge&logo=Keras)&nbsp;
-![Sklearn](https://img.shields.io/badge/-Sklearn-05122A?style=for-the-badge&logo=scikitlearn)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&logo=PyTorch)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat-square&logo=Tensorflow)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat-square&logo=Keras)&nbsp;
+![Sklearn](https://img.shields.io/badge/-Sklearn-05122A?style=flat-square&logo=scikitlearn)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch)&nbsp;
 <br>
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;
 
