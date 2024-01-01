@@ -11,16 +11,13 @@ I am a curious individual with a relentless passion for data science and MLOps. 
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! 🌟
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="500px" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400px" align="right"/>
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3)&nbsp;
-<br>
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=Windows)&nbsp;
 <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
@@ -42,6 +39,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ![Sklearn](https://img.shields.io/badge/-Sklearn-05122A?style=for-the-badge&logo=scikitlearn)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&logo=PyTorch)&nbsp;
 <br>
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;
 
 <h3>📈 &nbsp;Projects</h3>
 
