@@ -11,7 +11,7 @@ I am a curious individual with a relentless passion for data science and MLOps. 
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! 🌟
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400px" align="right"/>
+<img alt="Night Coding" src="https://gifdb.com/images/high/ice-bear-laptop-typing-working-busy-rcs9s9lq7r1dz93t.gif" width="400px" align="right"/>
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
