@@ -2,11 +2,10 @@
 
 <picture><img src = "https://github.com/mesutdmn/mesutdmn/assets/72805471/7cc7d2e0-8dd0-4645-878b-3b3b0267afaa" width = 50px></picture> <b>About me</b>
 
-I am a curious individual with a relentless passion for data science and MLOps. As a self-taught enthusiast in these fields, I've dedicated myself to continuous learning and hands-on projects to sharpen my skills.
+I have experience in data science, artificial intelligence, and MLOps. I've developed a deep understanding in these areas by self-learning. Now, I'm eager to solve complex data problems and create innovative solutions. I'm looking forward to expanding my professional network and connecting with other experts who share the same passion. 
 
-- 🚀 Actively seeking opportunities in data science and MLOps.
-- 🎓 Self-taught in the dynamic realms of data science, with a focus on machine learning operations.
-- 🌱 Keen on exploring new technologies and methodologies to stay at the forefront of the ever-evolving data landscape.
+Feel free to message me on LinkedIn.
+Thank you!
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! 🌟
 
