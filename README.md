@@ -23,13 +23,13 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)&nbsp;
 <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
+![DVC](https://img.shields.io/badge/-DVC-05122A?style=flat-square&logo=DVC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)&nbsp;
 ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat-square&logo=mlflow)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat-square&logo=jenkins)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes)&nbsp;
 <br>
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=django)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=flask)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazonaws)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoftazure)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=streamlit)&nbsp;
 <br>
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas)
