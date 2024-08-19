@@ -46,6 +46,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <h3>📈 &nbsp;Projects</h3>
 
 - The Carbon Footprint Calculator project is a user-friendly web application designed to empower individuals to assess and understand their environmental impact. https://github.com/mesutdmn/Carbon-Footprint-Calculator-App
+- For the Teknofest NLP competition, I developed a model with 85% accuracy using only 8MB of data by employing a transformer-encoder architecture with PyTorch to extract sentiment and brand names from Turkish customer reviews. Despite not using a pre-trained model, we ranked 18th out of 90 teams, competing against others who used pre-trained models. https://github.com/we-bears/Turkish-Brand-Entity-Sentiment-Recognizer
 
 <h3>📚 &nbsp;Education</h3>
 
