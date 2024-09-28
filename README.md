@@ -23,10 +23,8 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)&nbsp;
 <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
-![DVC](https://img.shields.io/badge/-DVC-05122A?style=flat-square&logo=DVC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)&nbsp;
 ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat-square&logo=mlflow)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat-square&logo=jenkins)&nbsp;
 <br>
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazonaws)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoftazure)&nbsp;
@@ -37,21 +35,22 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat-square&logo=Keras)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-Sklearn-05122A?style=flat-square&logo=scikitlearn)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch)&nbsp;
-![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat-square&logo=apachespark)&nbsp;
 <br>
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=Ubuntu)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=Windows)&nbsp;
 
-<h3>📈 &nbsp;Projects</h3>
+<h3>📈 &nbsp;Project Samples</h3>
 
-- The Carbon Footprint Calculator project is a user-friendly web application designed to empower individuals to assess and understand their environmental impact. https://github.com/mesutdmn/Carbon-Footprint-Calculator-App
+- Created an application that allows users to describe images using their voice, converting the audio input into text with the OpenAI Whisper-1 model, and then generating an image from that text using the DALL-E model. Users can also obtain descriptions of their generated images via GeminiAI. https://github.com/mesutdmn/Speach-to-Image-With-LLMs
 - For the Teknofest NLP competition, I developed a model with 85% accuracy using only 8MB of data by employing a transformer-encoder architecture with PyTorch to extract sentiment and brand names from Turkish customer reviews. Despite not using a pre-trained model, we ranked 18th out of 90 teams, competing against others who used pre-trained models. https://github.com/we-bears/Turkish-Brand-Entity-Sentiment-Recognizer
+- The Carbon Footprint Calculator project is a user-friendly web application designed to empower individuals to assess and understand their environmental impact. https://github.com/mesutdmn/Carbon-Footprint-Calculator-App
 
-<h3>📚 &nbsp;Education</h3>
+<h3>📚 &nbsp;Important Certificates</h3>
 
-- Computer Engineering at Karadeniz Technical University.
-- Data Science & Machine Learning Bootcamp Participant at Miuul.
+- [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/EUGWMLG4QHGL)
+- [Generative AI & Prompt Engineer](https://learning.miuul.com/certificates/xieruig2ls)
+- [Machine Learning Engineer](https://www.datacamp.com/completed/statement-of-accomplishment/track/d65330b892050d64108f9738cf9f552c968c3f5a)
+- [Miuul Datascience Bootcamp(4months)](https://certificate.miuul.com/mesut_duman)
+- [IBM Data Science Professional](https://www.coursera.org/account/accomplishments/professional-cert/XADPDQAWM2ZN)
+
 
 
 <h3>⚙️ &nbsp;GitHub Analytics</h3>
