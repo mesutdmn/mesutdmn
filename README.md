@@ -2,10 +2,9 @@
 
 <picture><img src = "https://github.com/mesutdmn/mesutdmn/assets/72805471/7cc7d2e0-8dd0-4645-878b-3b3b0267afaa" width = 50px></picture> <b>About me</b>
 
-I have experience in data science, artificial intelligence, and MLOps. I've developed a deep understanding in these areas by self-learning. Now, I'm eager to solve complex data problems and create innovative solutions. I'm looking forward to expanding my professional network and connecting with other experts who share the same passion. 
+Hello, I am experienced in developing data science and artificial intelligence applications. I strive to continuously improve myself in this dynamic and ever-evolving field, staying updated on the latest innovations. By leveraging my analytical thinking and problem-solving skills, I create effective solutions and innovative projects.
 
-Feel free to message me on LinkedIn.
-Thank you!
+If you would like to connect in this field, feel free to reach out to me on LinkedIn. I look forward to creating new opportunities together!
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! 🌟
 
@@ -65,7 +64,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <a target="_blank" href="https://www.linkedin.com/in/mesut-duman/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.kaggle.com/dumanmesut"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@dumanmesut"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
-<a target="_blank" href="mailto:mesutduman@outlook.com"><img src="https://img.shields.io/badge/Mail_Me-CC100E?style=for-the-badge&logo=minutemailer&logoColor=white"></img></a>
+<a target="_blank" href="https://share.streamlit.io/user/mesutdmn"><img src="https://img.shields.io/badge/Streamlit-CC100E?style=for-the-badge&logo=streamlit&logoColor=white"></img></a>
 
 
 <h3 ><img src='https://github.com/images/mona-whisper.gif' width="50px"> </h3>
