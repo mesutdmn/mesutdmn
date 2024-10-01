@@ -37,6 +37,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <br>
 
 <h3>📈 &nbsp;Project Samples</h3>
+
 - Created a Retrieval-Augmented Generation (RAG)-based AI chatbot, capable of querying PDF documents using the OpenAI API integrated with LangChain. With LangGraph and FAISS, vector-based data queries are performed on PDF files, allowing natural language interaction with the data. https://github.com/mesutdmn/Chat-With-Your-PDF
 - Created an application that allows users to describe images using their voice, converting the audio input into text with the OpenAI Whisper-1 model, and then generating an image from that text using the DALL-E model. Users can also obtain descriptions of their generated images via GeminiAI. https://github.com/mesutdmn/Speach-to-Image-With-LLMs
 - For the Teknofest NLP competition, I developed a model with 85% accuracy using only 8MB of data by employing a transformer-encoder architecture with PyTorch to extract sentiment and brand names from Turkish customer reviews. Despite not using a pre-trained model, we ranked 18th out of 90 teams, competing against others who used pre-trained models. https://github.com/we-bears/Turkish-Brand-Entity-Sentiment-Recognizer
