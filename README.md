@@ -52,15 +52,6 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 - [IBM Data Science Professional](https://www.coursera.org/account/accomplishments/professional-cert/XADPDQAWM2ZN)
 
 
-
-<h3>⚙️ &nbsp;GitHub Analytics</h3>
-<p align="center">
-<a href="https://github.com/mesutdmn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mesutdmn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mesutdmn&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <h3> <img src='https://github.com/mesutdmn/mesutdmn/assets/72805471/315a9388-702c-4161-9782-e72511e07bc2' width="50px"> Connect with me </h3>
 <a target="_blank" href="https://www.linkedin.com/in/mesut-duman/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.kaggle.com/dumanmesut"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
