@@ -36,7 +36,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch)&nbsp;
 <br>
 
-<h3>📈 &nbsp;Project Samples</h3>
+<h3>📈 &nbsp;Projects</h3>
 
 - Developed an AI-powered multi-agent essay writing system using CrewAI and LangChain. Integrated web scraping and summarization tools to gather real-time data from the web, allowing agents to autonomously generate essays based on user prompts. https://github.com/mesutdmn/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer
 - Created a Retrieval-Augmented Generation (RAG)-based AI chatbot, capable of querying PDF documents using the OpenAI API integrated with LangChain. With LangGraph and FAISS, vector-based data queries are performed on PDF files, allowing natural language interaction with the data. https://github.com/mesutdmn/Chat-With-Your-PDF
