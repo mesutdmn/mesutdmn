@@ -44,6 +44,8 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 <h3>📚 &nbsp;Important Certificates</h3>
 
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/X0R9ASVZCWU7)
+- [IBM AI Engineering Professional Certificate](https://www.credly.com/earner/earned/badge/848ad925-4b53-4914-bef4-cc02157d9966)
 - [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/EUGWMLG4QHGL)
 - [Generative AI & Prompt Engineer](https://learning.miuul.com/certificates/xieruig2ls)
 - [Machine Learning Engineer](https://www.datacamp.com/completed/statement-of-accomplishment/track/d65330b892050d64108f9738cf9f552c968c3f5a)
