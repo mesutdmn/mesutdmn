@@ -36,6 +36,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 <h3>📈 &nbsp;Projects</h3>
 
+- In this project we developed a fully automated system which generates questions and answers from various multimedia inputs—including PDF, DOCX, PPTX, EPUB, ENEX (evernote), TXT, MP3, MP4, MPEG4, PNG, JPG, JPEG, URLs, YouTube, Spotify, Wikipedia, and direct text input. Users can interact with the interface to answer questions and receive detailed performance feedback with suggestions for improvement. https://github.com/mesutdmn/Digi-Did-I-Get-It
 - Developed an AI-powered multi-agent essay writing system using CrewAI and LangChain. Integrated web scraping and summarization tools to gather real-time data from the web, allowing agents to autonomously generate essays based on user prompts. https://github.com/mesutdmn/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer
 - Created a Retrieval-Augmented Generation (RAG)-based AI chatbot, capable of querying PDF documents using the OpenAI API integrated with LangChain. With LangGraph and FAISS, vector-based data queries are performed on PDF files, allowing natural language interaction with the data. https://github.com/mesutdmn/Chat-With-Your-PDF
 - Created an application that allows users to describe images using their voice, converting the audio input into text with the OpenAI Whisper-1 model, and then generating an image from that text using the DALL-E model. Users can also obtain descriptions of their generated images via GeminiAI. https://github.com/mesutdmn/Speech-to-Image-With-LLMs
